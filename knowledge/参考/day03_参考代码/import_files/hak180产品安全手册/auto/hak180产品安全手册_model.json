@@ -1,0 +1,3003 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5164,
+                "bbox": [
+                    70,
+                    70,
+                    378,
+                    152
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.6012,
+                "bbox": [
+                    408,
+                    71,
+                    816,
+                    154
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4533,
+                "bbox": [
+                    628,
+                    163,
+                    815,
+                    192
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.5019,
+                "bbox": [
+                    735,
+                    198,
+                    815,
+                    227
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9604,
+                "bbox": [
+                    84,
+                    245,
+                    482,
+                    304
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8257,
+                "bbox": [
+                    70,
+                    336,
+                    431,
+                    376
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9434,
+                "bbox": [
+                    70,
+                    389,
+                    412,
+                    422
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9732,
+                "bbox": [
+                    69,
+                    427,
+                    832,
+                    492
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8775,
+                "bbox": [
+                    69,
+                    495,
+                    831,
+                    590
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6945,
+                "bbox": [
+                    70,
+                    593,
+                    663,
+                    626
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8671,
+                "bbox": [
+                    71,
+                    627,
+                    398,
+                    657
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.958,
+                "bbox": [
+                    68,
+                    698,
+                    793,
+                    763
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9738,
+                "bbox": [
+                    69,
+                    797,
+                    821,
+                    856
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9693,
+                "bbox": [
+                    68,
+                    856,
+                    823,
+                    915
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9298,
+                "bbox": [
+                    70,
+                    917,
+                    687,
+                    948
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9423,
+                "bbox": [
+                    71,
+                    949,
+                    760,
+                    980
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9783,
+                "bbox": [
+                    70,
+                    981,
+                    826,
+                    1068
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9381,
+                "bbox": [
+                    77,
+                    1088,
+                    207,
+                    1129
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.967,
+                "bbox": [
+                    72,
+                    1127,
+                    812,
+                    1190
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9098,
+                "bbox": [
+                    72,
+                    1213,
+                    134,
+                    1244
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9586,
+                "bbox": [
+                    68,
+                    1244,
+                    825,
+                    1358
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9733,
+                "bbox": [
+                    69,
+                    1359,
+                    826,
+                    1417
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9484,
+                "bbox": [
+                    70,
+                    1418,
+                    686,
+                    1448
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9803,
+                "bbox": [
+                    70,
+                    1450,
+                    825,
+                    1536
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9751,
+                "bbox": [
+                    68,
+                    1537,
+                    828,
+                    1595
+                ],
+                "index": 25
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9812,
+                "bbox": [
+                    68,
+                    1596,
+                    826,
+                    1681
+                ],
+                "index": 26
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8483,
+                "bbox": [
+                    70,
+                    1683,
+                    631,
+                    1713
+                ],
+                "index": 27
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9625,
+                "bbox": [
+                    76,
+                    1711,
+                    815,
+                    1769
+                ],
+                "index": 28
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9814,
+                "bbox": [
+                    68,
+                    1770,
+                    825,
+                    1857
+                ],
+                "index": 29
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9809,
+                "bbox": [
+                    69,
+                    1858,
+                    823,
+                    1943
+                ],
+                "index": 30
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9806,
+                "bbox": [
+                    69,
+                    1945,
+                    823,
+                    2031
+                ],
+                "index": 31
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9754,
+                "bbox": [
+                    70,
+                    2032,
+                    826,
+                    2091
+                ],
+                "index": 32
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787,
+                "bbox": [
+                    69,
+                    2092,
+                    823,
+                    2181
+                ],
+                "index": 33
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9851,
+                "bbox": [
+                    868,
+                    70,
+                    1626,
+                    212
+                ],
+                "index": 34
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.938,
+                "bbox": [
+                    868,
+                    214,
+                    1623,
+                    273
+                ],
+                "index": 35
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5487,
+                "bbox": [
+                    872,
+                    273,
+                    1165,
+                    302
+                ],
+                "index": 36
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.952,
+                "bbox": [
+                    878,
+                    300,
+                    1622,
+                    360
+                ],
+                "index": 37
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9802,
+                "bbox": [
+                    869,
+                    360,
+                    1623,
+                    448
+                ],
+                "index": 38
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9776,
+                "bbox": [
+                    1007,
+                    460,
+                    1498,
+                    832
+                ],
+                "index": 39
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.5784,
+                "bbox": [
+                    1016,
+                    849,
+                    1267,
+                    944
+                ],
+                "index": 40
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9695,
+                "bbox": [
+                    1268,
+                    848,
+                    1481,
+                    1058
+                ],
+                "index": 41
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9237,
+                "bbox": [
+                    872,
+                    1093,
+                    960,
+                    1124
+                ],
+                "index": 42
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8648,
+                "bbox": [
+                    870,
+                    1122,
+                    1431,
+                    1153
+                ],
+                "index": 43
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9592,
+                "bbox": [
+                    876,
+                    1149,
+                    1612,
+                    1208
+                ],
+                "index": 44
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.972,
+                "bbox": [
+                    867,
+                    1210,
+                    1620,
+                    1268
+                ],
+                "index": 45
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9727,
+                "bbox": [
+                    866,
+                    1269,
+                    1620,
+                    1327
+                ],
+                "index": 46
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6108,
+                "bbox": [
+                    869,
+                    1329,
+                    1136,
+                    1359
+                ],
+                "index": 47
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9375,
+                "bbox": [
+                    872,
+                    1355,
+                    1623,
+                    1416
+                ],
+                "index": 48
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9431,
+                "bbox": [
+                    870,
+                    1417,
+                    1235,
+                    1447
+                ],
+                "index": 49
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9473,
+                "bbox": [
+                    869,
+                    1448,
+                    1407,
+                    1478
+                ],
+                "index": 50
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9738,
+                "bbox": [
+                    867,
+                    1479,
+                    1622,
+                    1538
+                ],
+                "index": 51
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9805,
+                "bbox": [
+                    866,
+                    1539,
+                    1621,
+                    1624
+                ],
+                "index": 52
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9434,
+                "bbox": [
+                    870,
+                    1626,
+                    1185,
+                    1657
+                ],
+                "index": 53
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9479,
+                "bbox": [
+                    870,
+                    1658,
+                    1614,
+                    1689
+                ],
+                "index": 54
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9699,
+                "bbox": [
+                    869,
+                    1691,
+                    1623,
+                    1748
+                ],
+                "index": 55
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9729,
+                "bbox": [
+                    867,
+                    1750,
+                    1623,
+                    1807
+                ],
+                "index": 56
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.955,
+                "bbox": [
+                    869,
+                    1808,
+                    1425,
+                    1839
+                ],
+                "index": 57
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9802,
+                "bbox": [
+                    869,
+                    1840,
+                    1623,
+                    1927
+                ],
+                "index": 58
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9799,
+                "bbox": [
+                    870,
+                    1927,
+                    1624,
+                    2017
+                ],
+                "index": 59
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9481,
+                "bbox": [
+                    1675,
+                    74,
+                    1806,
+                    116
+                ],
+                "index": 60
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5873,
+                "bbox": [
+                    1671,
+                    115,
+                    2224,
+                    177
+                ],
+                "index": 61
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9147,
+                "bbox": [
+                    1670,
+                    201,
+                    1734,
+                    231
+                ],
+                "index": 62
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9748,
+                "bbox": [
+                    1666,
+                    231,
+                    2412,
+                    289
+                ],
+                "index": 63
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9509,
+                "bbox": [
+                    1669,
+                    290,
+                    2084,
+                    321
+                ],
+                "index": 64
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9693,
+                "bbox": [
+                    1666,
+                    322,
+                    2422,
+                    380
+                ],
+                "index": 65
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8902,
+                "bbox": [
+                    1704,
+                    402,
+                    2089,
+                    666
+                ],
+                "index": 66
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9372,
+                "bbox": [
+                    2107,
+                    405,
+                    2388,
+                    661
+                ],
+                "index": 67
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9328,
+                "bbox": [
+                    1671,
+                    694,
+                    1759,
+                    724
+                ],
+                "index": 68
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9725,
+                "bbox": [
+                    1669,
+                    724,
+                    2422,
+                    783
+                ],
+                "index": 69
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9716,
+                "bbox": [
+                    1669,
+                    783,
+                    2421,
+                    842
+                ],
+                "index": 70
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9447,
+                "bbox": [
+                    1669,
+                    844,
+                    2309,
+                    877
+                ],
+                "index": 71
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9635,
+                "bbox": [
+                    1671,
+                    894,
+                    2049,
+                    931
+                ],
+                "index": 72
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9784,
+                "bbox": [
+                    1669,
+                    937,
+                    2424,
+                    1027
+                ],
+                "index": 73
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9793,
+                "bbox": [
+                    1714,
+                    1040,
+                    2364,
+                    1352
+                ],
+                "index": 74
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5589,
+                "bbox": [
+                    1667,
+                    1375,
+                    2433,
+                    1493
+                ],
+                "index": 75
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.9678,
+                "bbox": [
+                    1798,
+                    1508,
+                    2309,
+                    1926
+                ],
+                "index": 76
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9576,
+                "bbox": [
+                    2474,
+                    72,
+                    2640,
+                    114
+                ],
+                "index": 77
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.963,
+                "bbox": [
+                    2470,
+                    114,
+                    3205,
+                    174
+                ],
+                "index": 78
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9158,
+                "bbox": [
+                    2470,
+                    199,
+                    2532,
+                    230
+                ],
+                "index": 79
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9729,
+                "bbox": [
+                    2478,
+                    229,
+                    3226,
+                    401
+                ],
+                "index": 80
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9258,
+                "bbox": [
+                    2471,
+                    407,
+                    2559,
+                    438
+                ],
+                "index": 81
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9824,
+                "bbox": [
+                    2479,
+                    436,
+                    3222,
+                    554
+                ],
+                "index": 82
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.931,
+                "bbox": [
+                    2470,
+                    560,
+                    2585,
+                    593
+                ],
+                "index": 83
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9477,
+                "bbox": [
+                    2478,
+                    590,
+                    3177,
+                    624
+                ],
+                "index": 84
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9291,
+                "bbox": [
+                    2470,
+                    641,
+                    2697,
+                    678
+                ],
+                "index": 85
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9793,
+                "bbox": [
+                    2466,
+                    682,
+                    3231,
+                    768
+                ],
+                "index": 86
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.923,
+                "bbox": [
+                    2469,
+                    777,
+                    2633,
+                    808
+                ],
+                "index": 87
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9433,
+                "bbox": [
+                    2468,
+                    807,
+                    2834,
+                    839
+                ],
+                "index": 88
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9715,
+                "bbox": [
+                    2467,
+                    839,
+                    3223,
+                    898
+                ],
+                "index": 89
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9436,
+                "bbox": [
+                    2467,
+                    899,
+                    2884,
+                    932
+                ],
+                "index": 90
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8665,
+                "bbox": [
+                    2470,
+                    949,
+                    2879,
+                    988
+                ],
+                "index": 91
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9815,
+                "bbox": [
+                    2474,
+                    999,
+                    3228,
+                    1761
+                ],
+                "index": 92,
+                "html": "<table><tr><td rowspan=1 colspan=1>型号</td><td rowspan=1 colspan=6>有害物质</td></tr><tr><td rowspan=1 colspan=1>HAK180</td><td rowspan=1 colspan=1>铅</td><td rowspan=1 colspan=1>汞</td><td rowspan=1 colspan=1>镉</td><td rowspan=1 colspan=1>六价铬</td><td rowspan=1 colspan=1>多溴联苯</td><td rowspan=1 colspan=1>多溴苯醚</td></tr><tr><td rowspan=1 colspan=1>部件名称</td><td rowspan=1 colspan=1>(Pb)</td><td rowspan=1 colspan=1>(Hg)</td><td rowspan=1 colspan=1>(Cd)</td><td rowspan=1 colspan=1>(Cr(V))</td><td rowspan=1 colspan=1>(PBB)</td><td rowspan=1 colspan=1>(PBDE)</td></tr><tr><td rowspan=1 colspan=1>框架L单元</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>框架R单元</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>中框架单元</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>框架</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>顶盖单元</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>进纸器单元</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>热熔器</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>盖板</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>标签</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>金属薄片保持单元</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>主电路板</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>低压电源电路板</td><td rowspan=1 colspan=1>×</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>选配件</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td></tr><tr><td rowspan=1 colspan=1>包装材料</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td><td rowspan=1 colspan=1>O</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5632,
+                "bbox": [
+                    2481,
+                    1768,
+                    2891,
+                    1799
+                ],
+                "index": 93
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6896,
+                "bbox": [
+                    2482,
+                    1797,
+                    3186,
+                    1854
+                ],
+                "index": 94
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7167,
+                "bbox": [
+                    2484,
+                    1853,
+                    3192,
+                    1908
+                ],
+                "index": 95
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6584,
+                "bbox": [
+                    2485,
+                    1907,
+                    2994,
+                    1941
+                ],
+                "index": 96
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.948,
+                "bbox": [
+                    2468,
+                    2230,
+                    2989,
+                    2264
+                ],
+                "index": 97
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.7577,
+                "bbox": [
+                    3209,
+                    2234,
+                    3232,
+                    2262
+                ],
+                "index": 98
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    69,
+                    63,
+                    384,
+                    164
+                ],
+                "score": 0.999,
+                "text": "brother"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    77,
+                    389,
+                    410,
+                    423
+                ],
+                "score": 0.973,
+                "text": "感谢您购买 HAK180烫金机。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    73,
+                    623,
+                    398,
+                    660
+                ],
+                "score": 0.968,
+                "text": "http://www.95105369.com。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    873,
+                    272,
+                    1165,
+                    303
+                ],
+                "score": 0.956,
+                "text": "•对于使用起搏器的用户："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    873,
+                    1627,
+                    1183,
+                    1658
+                ],
+                "score": 0.958,
+                "text": "·请勿让设备压在电源线上。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    631,
+                    165,
+                    816,
+                    194
+                ],
+                "score": 0.999,
+                "text": "D01WD7001-00"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2473,
+                    70,
+                    2643,
+                    122
+                ],
+                "score": 1.0,
+                "text": "重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2474,
+                    778,
+                    2631,
+                    810
+                ],
+                "score": 1.0,
+                "text": "设备和电源线"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    736,
+                    194,
+                    820,
+                    231
+                ],
+                "score": 0.998,
+                "text": "SCHN"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    71,
+                    1209,
+                    136,
+                    1252
+                ],
+                "score": 1.0,
+                "text": "设备"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    873,
+                    1091,
+                    959,
+                    1128
+                ],
+                "score": 0.999,
+                "text": "电源线"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1670,
+                    197,
+                    1735,
+                    240
+                ],
+                "score": 1.0,
+                "text": "设备"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1672,
+                    691,
+                    1760,
+                    731
+                ],
+                "score": 0.999,
+                "text": "电源线"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2470,
+                    197,
+                    2533,
+                    237
+                ],
+                "score": 1.0,
+                "text": "设备"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2473,
+                    405,
+                    2558,
+                    445
+                ],
+                "score": 0.999,
+                "text": "电源线"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    80,
+                    240,
+                    486,
+                    310
+                ],
+                "score": 0.974,
+                "text": "HAK 180烫金机"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    75,
+                    338,
+                    430,
+                    376
+                ],
+                "score": 0.997,
+                "text": "产品安全手册（简体中文）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    873,
+                    1415,
+                    1234,
+                    1448
+                ],
+                "score": 0.969,
+                "text": "·请勿将任何物体压在电源线上。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1675,
+                    896,
+                    2047,
+                    932
+                ],
+                "score": 0.999,
+                "text": "为设备选择一个安全的位置"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2472,
+                    808,
+                    2832,
+                    838
+                ],
+                "score": 0.959,
+                "text": "·请仅使用本设备随附的电源线。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2473,
+                    949,
+                    2877,
+                    989
+                ],
+                "score": 1.0,
+                "text": "产品中有害物质的名称及含量"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2488,
+                    1771,
+                    2890,
+                    1799
+                ],
+                "score": 0.951,
+                "text": "本表格依据 SJ/T 11364 的规定编制。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    76,
+                    429,
+                    832,
+                    460
+                ],
+                "score": 0.999,
+                "text": "在使用本设备之前，请先阅读本手册，包括所有预防措施。阅读本手"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    76,
+                    459,
+                    295,
+                    491
+                ],
+                "score": 1.0,
+                "text": "册后，请妥善保管。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    73,
+                    796,
+                    817,
+                    830
+                ],
+                "score": 0.971,
+                "text": "·对于保养、调整或维修事宜，请联系 Brother 呼叫中心或您当地的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    92,
+                    829,
+                    273,
+                    855
+                ],
+                "score": 0.984,
+                "text": "Brother 经销商。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    72,
+                    854,
+                    823,
+                    891
+                ],
+                "score": 0.982,
+                "text": "·如果本设备工作不正常或发生任何错误，请关闭本设备，拔下所有"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    91,
+                    886,
+                    776,
+                    917
+                ],
+                "score": 0.975,
+                "text": "电缆，然后联系 Brother 呼叫中心或您当地的 Brother 经销商。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    73,
+                    978,
+                    822,
+                    1011
+                ],
+                "score": 0.981,
+                "text": "·请注意，对于使用通过本设备制作的产品造成的任何损坏或利润损"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    90,
+                    1007,
+                    824,
+                    1041
+                ],
+                "score": 0.997,
+                "text": "失，或者故障、维修导致的数据消失或更改，或者第三方提出的任"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    91,
+                    1034,
+                    436,
+                    1068
+                ],
+                "score": 0.999,
+                "text": "何索赔，我们不承担任何责任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    78,
+                    1125,
+                    811,
+                    1162
+                ],
+                "score": 0.999,
+                "text": "不遵守说明和警告可能导致人员死亡或严重受伤。遵守这些指引以"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    79,
+                    1157,
+                    625,
+                    1188
+                ],
+                "score": 0.999,
+                "text": "避免冒烟、发热、爆炸、火灾或人员受伤的风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    72,
+                    1356,
+                    824,
+                    1392
+                ],
+                "score": 0.988,
+                "text": "·请勿在未去除所有包装材料的情况下使本设备，包括本设备内部"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    90,
+                    1386,
+                    684,
+                    1419
+                ],
+                "score": 0.975,
+                "text": "的任何附加的包装材料。否则可能会产生火灾的风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    74,
+                    1448,
+                    823,
+                    1482
+                ],
+                "score": 0.984,
+                "text": "•请勿尝试自行维修本设备。打开或拆下盖子可能使您接触到危险电"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    91,
+                    1478,
+                    823,
+                    1509
+                ],
+                "score": 1.0,
+                "text": "压点以及带来其他风险，并且可能使您的保修失效。对于所有维修"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    90,
+                    1503,
+                    752,
+                    1539
+                ],
+                "score": 0.966,
+                "text": "事宜，请联系Brother 呼叫中心或您当地的 Brother 经销商。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    72,
+                    1534,
+                    826,
+                    1570
+                ],
+                "score": 0.92,
+                "text": "·请在以下环境使用本设备：温度保持在10ºC 和 32ºC 之间，湿度"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    92,
+                    1567,
+                    488,
+                    1595
+                ],
+                "score": 0.96,
+                "text": "保持在 20% 和 80%之间，无冷凝。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    72,
+                    1594,
+                    824,
+                    1629
+                ],
+                "score": 0.987,
+                "text": "·请勿使本设备受到阳光直射、过热、接触明火、腐蚀性气体、湿气"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    91,
+                    1625,
+                    823,
+                    1656
+                ],
+                "score": 0.999,
+                "text": "或灰尘。否则可能产生触电、短路或火灾的风险，从而导致损坏设"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    91,
+                    1650,
+                    406,
+                    1684
+                ],
+                "score": 0.997,
+                "text": "备和/或导致设备无法运行。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    92,
+                    1712,
+                    811,
+                    1743
+                ],
+                "score": 0.984,
+                "text": "否则当水（包括加热/空调/通风设备所产生的冷凝水）接触本设"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    92,
+                    1740,
+                    459,
+                    1771
+                ],
+                "score": 1.0,
+                "text": "备时可能产生短路或火灾的风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    72,
+                    1768,
+                    823,
+                    1803
+                ],
+                "score": 0.972,
+                "text": "·如果设备变得异常高温、冒烟、产生任何强烈味道，或者如果您意"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    89,
+                    1798,
+                    823,
+                    1832
+                ],
+                "score": 0.992,
+                "text": "外在设备上倒入任何液体，请即从电源插座拔掉设备的插头。请"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    90,
+                    1826,
+                    652,
+                    1860
+                ],
+                "score": 0.972,
+                "text": "联系 Brother呼叫中心或您当地的 Brother 经销商。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    72,
+                    1856,
+                    823,
+                    1893
+                ],
+                "score": 0.981,
+                "text": "·如果设备跌落或者已损坏，则有触电的可能性。请从电源插座中拔"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    89,
+                    1885,
+                    816,
+                    1920
+                ],
+                "score": 0.983,
+                "text": "掉设备的插头，然后联系Brother 呼叫中心或您当地的Brother经"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    91,
+                    1915,
+                    165,
+                    1946
+                ],
+                "score": 0.999,
+                "text": "销商。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    73,
+                    1943,
+                    822,
+                    1979
+                ],
+                "score": 0.963,
+                "text": "·如果水、其他液体或金属物体进入设备内部，请即从电源插座中"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    88,
+                    1973,
+                    810,
+                    2008
+                ],
+                "score": 0.991,
+                "text": "拔掉设备的插头，然后联系Brother呼叫中心或您当地的Brother"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    90,
+                    2001,
+                    187,
+                    2034
+                ],
+                "score": 1.0,
+                "text": "经销商。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    71,
+                    2030,
+                    824,
+                    2066
+                ],
+                "score": 0.984,
+                "text": "·请勿在卡纸或有纸张散落在设备内部的情况下尝试使用本设备。纸"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    92,
+                    2061,
+                    535,
+                    2092
+                ],
+                "score": 0.999,
+                "text": "张与定影单元长时间接触可能导致火灾。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    73,
+                    2090,
+                    823,
+                    2126
+                ],
+                "score": 0.972,
+                "text": "·请勿使用任何易燃物品、任何类型的喷雾剂包含酒精或氨的有机"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    91,
+                    2119,
+                    817,
+                    2150
+                ],
+                "score": 0.997,
+                "text": "溶剂/液体来清洁本设备的内部或外部。否则可能导致火灾。请改"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    92,
+                    2148,
+                    812,
+                    2179
+                ],
+                "score": 0.999,
+                "text": "用无绒干抹布。有关如何清洁本设备的说明，请参阅使用说明书。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    871,
+                    211,
+                    1622,
+                    246
+                ],
+                "score": 0.973,
+                "text": "·本设备的包装中使用了塑料袋。塑料袋并不是玩具。为避免窒息的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    889,
+                    242,
+                    1609,
+                    273
+                ],
+                "score": 0.999,
+                "text": "危险，请将这些塑料袋远离婴儿和儿童，并正确弃置这些塑料袋。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    891,
+                    301,
+                    1622,
+                    332
+                ],
+                "score": 1.0,
+                "text": "本设备可能会产生弱磁场。如果您在本设备附近感觉到起搏器工作"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    890,
+                    329,
+                    1361,
+                    360
+                ],
+                "score": 0.999,
+                "text": "不正常，请远离本设备，并立即咨询医生。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    871,
+                    358,
+                    1619,
+                    394
+                ],
+                "score": 0.981,
+                "text": "·使用本设备之后短时间内，本设备的一些内部零件仍然处于极热状态。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    889,
+                    389,
+                    1622,
+                    420
+                ],
+                "score": 0.999,
+                "text": "打开前盖时，请勿触摸以灰色标记的区域。存在烧伤的风险。先等"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    891,
+                    417,
+                    1358,
+                    448
+                ],
+                "score": 0.998,
+                "text": "待设备冷却下来，再触摸设备的内部零件。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    890,
+                    1149,
+                    1609,
+                    1183
+                ],
+                "score": 0.98,
+                "text": "请勿将本设备连接到直流电源或逆变器（直流交流变换器）。存在"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    892,
+                    1180,
+                    1111,
+                    1209
+                ],
+                "score": 0.999,
+                "text": "火灾或触电的风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    871,
+                    1207,
+                    1622,
+                    1243
+                ],
+                "score": 0.976,
+                "text": "·请勿用湿触摸插头。这样可能导致触电。如果不确定您拥有哪种"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    892,
+                    1240,
+                    1256,
+                    1268
+                ],
+                "score": 1.0,
+                "text": "类型的电源，请联系合格的电工。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    870,
+                    1267,
+                    1622,
+                    1303
+                ],
+                "score": 0.986,
+                "text": "·始终确保插头已完全插入。如果电源线磨损或损坏，请勿使设备"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    891,
+                    1299,
+                    1110,
+                    1328
+                ],
+                "score": 1.0,
+                "text": "或用手触摸电源线。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    891,
+                    1355,
+                    1621,
+                    1389
+                ],
+                "score": 0.996,
+                "text": "先拔掉电源线，再清洁设备内部。拔出电源线时，不要拉电线，而"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    890,
+                    1383,
+                    1562,
+                    1418
+                ],
+                "score": 0.996,
+                "text": "是捏住插头往外拔。存在发生火灾、触电或设备故障的风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    871,
+                    1477,
+                    1623,
+                    1513
+                ],
+                "score": 0.985,
+                "text": "·请勿将本设备放置在会使得拉伸或拉紧电源线的位置，否则电源线"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    891,
+                    1510,
+                    1109,
+                    1538
+                ],
+                "score": 1.0,
+                "text": "可能会磨损或损坏。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    871,
+                    1537,
+                    1622,
+                    1573
+                ],
+                "score": 0.979,
+                "text": "·始终确保插头已完全插。如果电源线磨损或损坏，请勿使用设备"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    889,
+                    1566,
+                    1618,
+                    1600
+                ],
+                "score": 0.989,
+                "text": "或用手触摸电源线。如果拔出设备的电源插头，请勿触摸损坏/磨"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    889,
+                    1594,
+                    1011,
+                    1627
+                ],
+                "score": 1.0,
+                "text": "损的部分。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    874,
+                    1659,
+                    1609,
+                    1690
+                ],
+                "score": 0.985,
+                "text": "•请勿在雷暴天气期间使用本设备。存在闪电导致触电的潜在风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    872,
+                    1690,
+                    1622,
+                    1721
+                ],
+                "score": 0.984,
+                "text": "·请勿使用任何非指定的电缆。否则可能导致火灾或人员受伤。必须"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    889,
+                    1718,
+                    1184,
+                    1749
+                ],
+                "score": 1.0,
+                "text": "按照使用说明书正确安装。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    871,
+                    1747,
+                    1622,
+                    1783
+                ],
+                "score": 0.971,
+                "text": "·请勿让任何金属硬件或任何类型的液体落在设备的电源插头上。否"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    889,
+                    1778,
+                    1157,
+                    1807
+                ],
+                "score": 1.0,
+                "text": "则可能导致触电或火灾。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    875,
+                    1841,
+                    1622,
+                    1872
+                ],
+                "score": 0.991,
+                "text": "•定期拔出电源插头进行清洁。使用干布清洁插头插脚根部以及插脚"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    889,
+                    1868,
+                    1622,
+                    1901
+                ],
+                "score": 0.997,
+                "text": "之间的位置。如果电源插头长时间插入在电源插座中，灰尘会堆积"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    890,
+                    1896,
+                    1485,
+                    1929
+                ],
+                "score": 0.985,
+                "text": "在插头插脚周围，这可能会导致短路，从而引起灾。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    872,
+                    1925,
+                    1623,
+                    1960
+                ],
+                "score": 0.98,
+                "text": "·本设备装有接地的插头。此插头只能插入接地的电源插座中。这是"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    890,
+                    1955,
+                    1621,
+                    1986
+                ],
+                "score": 0.989,
+                "text": "一项安全功能。如果您无法将插头插入到插座中，请让电工更换过"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    890,
+                    1983,
+                    1358,
+                    2016
+                ],
+                "score": 0.998,
+                "text": "时的插座。请勿试图破坏接地插头的作。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1671,
+                    228,
+                    2408,
+                    264
+                ],
+                "score": 0.964,
+                "text": "·将本设备放置在平整、水平且稳定的表面上（如桌面)，避免震动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1689,
+                    258,
+                    1784,
+                    291
+                ],
+                "score": 0.999,
+                "text": "和冲击。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1671,
+                    321,
+                    2421,
+                    355
+                ],
+                "score": 0.981,
+                "text": "·为了防止人员受伤，请谨慎操作，避免将手指放置在图中所示的区"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1687,
+                    349,
+                    1761,
+                    380
+                ],
+                "score": 1.0,
+                "text": "域中。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1669,
+                    722,
+                    2422,
+                    758
+                ],
+                "score": 0.985,
+                "text": "·如果您长时间不会使用本设备，请从电源插座中拔掉电源线以确保"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1688,
+                    752,
+                    1763,
+                    786
+                ],
+                "score": 0.999,
+                "text": "安全。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1671,
+                    781,
+                    2421,
+                    817
+                ],
+                "score": 0.983,
+                "text": "·本设备必须安装在可轻松使电源插座的位置附近。如果发意外"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1689,
+                    810,
+                    2283,
+                    844
+                ],
+                "score": 0.997,
+                "text": "情况，必须从电源插座中拔掉电源线以完全关闭电源。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1670,
+                    936,
+                    2422,
+                    973
+                ],
+                "score": 0.972,
+                "text": "·提起本设备时，请使用双手抓稳本设备的两侧。如果抓住的是进纸"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1689,
+                    968,
+                    2421,
+                    999
+                ],
+                "score": 1.0,
+                "text": "托板和出纸盒，它们可能会掉下来。必须通过将双手放在本设备下"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1690,
+                    996,
+                    1882,
+                    1028
+                ],
+                "score": 0.999,
+                "text": "面来搬运本设备。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2474,
+                    111,
+                    3204,
+                    147
+                ],
+                "score": 1.0,
+                "text": "“重要事项”表示可能导致财产损失或本设备功能丧失的潜在危险"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2476,
+                    141,
+                    2551,
+                    175
+                ],
+                "score": 0.999,
+                "text": "情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2473,
+                    682,
+                    3231,
+                    716
+                ],
+                "score": 0.995,
+                "text": "本手册中的任何内容都将不会影响现有设备保修，也不应被视为授予"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2473,
+                    709,
+                    3231,
+                    743
+                ],
+                "score": 0.999,
+                "text": "任何其他设备保修。不遵循本手册中的安全说明可能导致本设备的保"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2472,
+                    736,
+                    2569,
+                    772
+                ],
+                "score": 0.999,
+                "text": "修失效。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2471,
+                    837,
+                    3222,
+                    874
+                ],
+                "score": 0.987,
+                "text": "·不要在本设备周围放置任何物体。在紧急情况下，此类物体会阻碍"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2488,
+                    867,
+                    3107,
+                    900
+                ],
+                "score": 0.997,
+                "text": "接近电源插座。必须保证在需要时可以拔出设备的插头。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    74,
+                    494,
+                    831,
+                    531
+                ],
+                "score": 0.995,
+                "text": "有关使用本设备的更多信息，请参阅使用说明书，其可在兄弟(中国)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    76,
+                    526,
+                    811,
+                    559
+                ],
+                "score": 0.992,
+                "text": "商业有限公司技术服务支持网站http://www.95105369.com/Web/"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    75,
+                    556,
+                    815,
+                    590
+                ],
+                "score": 0.986,
+                "text": "Manuals.aspx 上找到。建议您先通读使用说明书，再使用本设备。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    75,
+                    1243,
+                    761,
+                    1277
+                ],
+                "score": 0.978,
+                "text": "·请先阅读这本册，再尝试操作本设备或尝试进任何维护。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    91,
+                    1271,
+                    823,
+                    1306
+                ],
+                "score": 0.987,
+                "text": "不按照这些说明操作可能会提高发生人员受伤或财产损坏（包括火"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    91,
+                    1299,
+                    823,
+                    1333
+                ],
+                "score": 0.994,
+                "text": "灾、触电、烧伤或室息所致）的风险。对于本设备所有者不遵守本"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    91,
+                    1328,
+                    798,
+                    1359
+                ],
+                "score": 0.99,
+                "text": "指南中规定的说明操作而导致的损害，Brother 不承担任何责任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    872,
+                    67,
+                    1623,
+                    103
+                ],
+                "score": 0.986,
+                "text": "·请勿将本设备放在化学品附近，或者将本设备放置在可能会泼溅到"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    889,
+                    96,
+                    1629,
+                    130
+                ],
+                "score": 0.997,
+                "text": "化学品的位置。万一化学品接触本设备，则存在火灾或触电的风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    890,
+                    125,
+                    1624,
+                    159
+                ],
+                "score": 0.993,
+                "text": "特别是有机溶剂或液体（如苯、油漆稀释剂、抛光剂或除臭剂）可"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    890,
+                    151,
+                    1628,
+                    186
+                ],
+                "score": 0.992,
+                "text": "能导致塑料盖和/或电缆溶解或分解，从而产生火灾或触电的风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    891,
+                    182,
+                    1486,
+                    213
+                ],
+                "score": 1.0,
+                "text": "这些化学品或其他化学品可能导致本设备故障或褪色。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1674,
+                    1375,
+                    2432,
+                    1409
+                ],
+                "score": 0.989,
+                "text": "确保本设备的任何部位均未伸出设备所在的桌面或架。特别是当本"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1674,
+                    1402,
+                    2432,
+                    1436
+                ],
+                "score": 0.997,
+                "text": "设备位于桌面、支架等边缘时，请勿让出纸盒打开。确保本设备位于"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1672,
+                    1428,
+                    2433,
+                    1464
+                ],
+                "score": 0.998,
+                "text": "平整、水平且稳定的表面上，避免震动。不遵守这些预防措施可能导"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1674,
+                    1460,
+                    2320,
+                    1491
+                ],
+                "score": 1.0,
+                "text": "致设备跌落，从而导致用户的人身伤害以及设备严重损坏。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2490,
+                    438,
+                    3221,
+                    469
+                ],
+                "score": 1.0,
+                "text": "请勿将设备连接到受墙壁开关或自动计时器控制的电源插座，或者"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2491,
+                    466,
+                    3221,
+                    497
+                ],
+                "score": 0.998,
+                "text": "与大型设备或需要大量电力的其他设备连接到同一个电路中。否则"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2488,
+                    491,
+                    3207,
+                    527
+                ],
+                "score": 0.995,
+                "text": "可能会损坏电源。电源损坏还可能会从本设备的内存中删除信息，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2489,
+                    521,
+                    2978,
+                    554
+                ],
+                "score": 0.995,
+                "text": "并且反复打开/关闭电源可能会损坏本设备。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    76,
+                    595,
+                    656,
+                    626
+                ],
+                "score": 0.999,
+                "text": "如需获得常见问题解答、故障排除和说明书，请访问"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    73,
+                    1683,
+                    635,
+                    1715
+                ],
+                "score": 0.978,
+                "text": "·请勿将设备放在加热器、空调、电风扇或水附近。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    873,
+                    1122,
+                    1431,
+                    1155
+                ],
+                "score": 0.941,
+                "text": "•本设备通过AC 220 V-240V 50/60 Hz 电源供电。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    875,
+                    1809,
+                    1424,
+                    1840
+                ],
+                "score": 0.974,
+                "text": "• Brother 强烈建议您不要使用任何类型的延长线。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1678,
+                    115,
+                    2222,
+                    148
+                ],
+                "score": 1.0,
+                "text": "不遵守说明和警告可能导致人员中度或严重受伤。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1677,
+                    142,
+                    2023,
+                    176
+                ],
+                "score": 0.999,
+                "text": "遵守这些指引以避免人员受伤。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    75,
+                    700,
+                    794,
+                    734
+                ],
+                "score": 0.999,
+                "text": "对于本设备所有者不遵守本指南中规定的说明操作而导致的损害，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    76,
+                    731,
+                    366,
+                    763
+                ],
+                "score": 0.979,
+                "text": "Brother 不承担任何责任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    76,
+                    949,
+                    758,
+                    980
+                ],
+                "score": 0.981,
+                "text": "• 严禁未经授权擅自复制或重制本文档的任何部分或全部内容。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2490,
+                    591,
+                    3177,
+                    622
+                ],
+                "score": 0.989,
+                "text": "请勿撕下或损坏设备上的任何注意∕警告标签以及序列号标签。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2488,
+                    1797,
+                    3182,
+                    1828
+                ],
+                "score": 0.999,
+                "text": "：表示该有害物质在该部件所有均质材料中的含量均在GB/T"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2537,
+                    1827,
+                    2855,
+                    1855
+                ],
+                "score": 0.983,
+                "text": "26572 规定的限量要求以下。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2488,
+                    1852,
+                    3191,
+                    1885
+                ],
+                "score": 0.99,
+                "text": "×：表示该有害物质至少在该部件的某一均质材料中的含量超出"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2538,
+                    1881,
+                    2869,
+                    1909
+                ],
+                "score": 0.956,
+                "text": "GB/T 26572 规定的限量要求。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    75,
+                    917,
+                    683,
+                    948
+                ],
+                "score": 0.971,
+                "text": "• 本文档中提供的信息可能会随时更改，恕不另行通知。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    74,
+                    1417,
+                    683,
+                    1449
+                ],
+                "score": 0.976,
+                "text": "•请勿拆解本设备。拆解本设备可能会导致火灾或触电。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1673,
+                    844,
+                    2308,
+                    875
+                ],
+                "score": 0.984,
+                "text": "•请勿将手放在纸张边缘。纸张锋利的边缘可能导致受伤。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    72,
+                    1083,
+                    212,
+                    1140
+                ],
+                "score": 0.859,
+                "text": "▲警告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1672,
+                    71,
+                    1812,
+                    125
+                ],
+                "score": 0.816,
+                "text": "▲注意"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2473,
+                    560,
+                    2582,
+                    596
+                ],
+                "score": 0.998,
+                "text": "警告标签"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1018,
+                    849,
+                    1270,
+                    887
+                ],
+                "score": 0.992,
+                "text": "高温图标警告您切"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1063,
+                    883,
+                    1266,
+                    912
+                ],
+                "score": 0.995,
+                "text": "勿触摸高温的设备"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1061,
+                    911,
+                    1135,
+                    945
+                ],
+                "score": 1.0,
+                "text": "部件。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    873,
+                    1327,
+                    1135,
+                    1362
+                ],
+                "score": 0.966,
+                "text": "·设备内部有高压电极。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2472,
+                    640,
+                    2696,
+                    681
+                ],
+                "score": 1.0,
+                "text": "设备保修和责任"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    875,
+                    1448,
+                    1411,
+                    1479
+                ],
+                "score": 0.965,
+                "text": "• 请勿将本设备放在人们可能踏过电源线的位置。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2489,
+                    1910,
+                    2990,
+                    1938
+                ],
+                "score": 0.968,
+                "text": "(由于技术的原因暂时无法实现替代或减量化)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2473,
+                    2233,
+                    2988,
+                    2264
+                ],
+                "score": 0.973,
+                "text": "©2021 Brother Industries， Ltd.保留所有权利。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1673,
+                    291,
+                    2082,
+                    322
+                ],
+                "score": 0.945,
+                "text": "• 将本设备放置在通风良好的环境中。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2471,
+                    897,
+                    2882,
+                    930
+                ],
+                "score": 0.974,
+                "text": "·请遵守所有适用法规来处理本设备。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2491,
+                    231,
+                    3219,
+                    259
+                ],
+                "score": 0.999,
+                "text": "如果遵守了操作说明进行操作，但是设备不能正确运行，请仅调整"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2489,
+                    256,
+                    3221,
+                    290
+                ],
+                "score": 0.999,
+                "text": "操作说明中涵盖的控制。错误调整其他控制可能导致损坏并且通常"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2489,
+                    282,
+                    3206,
+                    316
+                ],
+                "score": 0.998,
+                "text": "需要合格技术进行全面工作以将本设备恢复到正常操作。Brother"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2490,
+                    311,
+                    3228,
+                    345
+                ],
+                "score": 0.998,
+                "text": "不建议使用Brother正品烫金膜盒以外的其他品牌烫金膜盒。如果"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2489,
+                    339,
+                    3221,
+                    372
+                ],
+                "score": 0.999,
+                "text": "使用与本设备不兼容的耗材导致损坏本设备的任何零件，由此导致"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    2491,
+                    370,
+                    2856,
+                    398
+                ],
+                "score": 1.0,
+                "text": "的任何维修可能不在保修范围内。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    3209,
+                    2234,
+                    3232,
+                    2264
+                ],
+                "score": 1.0,
+                "text": "1"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 3308,
+            "height": 2339
+        }
+    }
+]
